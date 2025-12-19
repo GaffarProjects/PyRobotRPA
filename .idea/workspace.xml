@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b13a180f-5dd0-4994-a5d3-769ef946f7aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/browsers.robot" beforeDir="false" afterPath="$PROJECT_DIR$/config/browsers.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/smoke/smoke_test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/tests/smoke/smoke_test.robot" afterDir="false" />
-    </list>
+    <list default="true" id="b13a180f-5dd0-4994-a5d3-769ef946f7aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +84,7 @@
       <workItem from="1766138517463" duration="570000" />
       <workItem from="1766139133431" duration="310000" />
       <workItem from="1766139508817" duration="465000" />
-      <workItem from="1766140065539" duration="6209000" />
+      <workItem from="1766140065539" duration="6752000" />
     </task>
     <servers />
   </component>

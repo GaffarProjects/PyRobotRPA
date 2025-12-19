@@ -32,4 +32,7 @@ Simple Checkout Start
     Input Text         id=last-name     Tester
     Input Text         id=postal-code   100001
     Click Button       id=continue
-    Page Should Contain    Checkout: Overview
+   Wait Until Page Contains    Checkout: Overview    5s
+    # Insert checkout record
+    Insert Order Row    ${SAUCE_USER}    Checkout     1
+    Log To Console    Inserted checkout record

@@ -1,19 +1,17 @@
-#PyRobotRPA – Web UI & DB Automation Demo
+# PyRobotRPA – Robot Framework Web & DB Demo
 
-End‑to‑end test automation demo using Robot Framework, SeleniumLibrary, and MySQL database validation for multiple demo sites (SauceDemo, The Internet, Automation Practice, Quotes to Scrape).​
+[![Robot Framework Tests](https://github.com/GaffarProjects/PyRobotRPA/actions/workflows/robot-tests.yml/badge.svg)](https://github.com/GaffarProjects/PyRobotRPA/actions/workflows/robot-tests.yml)
 
-This project is designed as a learning and portfolio repo, showing UI flows plus backend checks that fit a cloud / DevOps path.
+End‑to‑end test automation demo using **Robot** Framework, SeleniumLibrary, and MySQL database validation for multiple demo sites (SauceDemo, The Internet, Automation Practice, Quotes to Scrape).
 
-#Features
-Web UI automation using Robot Framework + SeleniumLibrary for login, checkout, file upload, and other flows.​
+---
 
-MySQL database validation from Robot tests using DatabaseLibrary and pymysql.
-​
+## Features
 
-Reusable keywords and test data via resources/ and config/ layers (browsers, DB, test data).
-​
-
-GitHub Actions workflow to run Robot tests on each push and upload HTML reports as build artifacts.
+- Web UI automation for login, checkout, file upload and smoke flows.  
+- MySQL database validation using Robot Framework DatabaseLibrary and `pymysql`.  
+- Reusable keywords and test data under `config/` and `resources/`.  
+- GitHub Actions workflow to run Robot tests on each push and upload HTML reports as artifacts.
 ​
 
 #Project structure

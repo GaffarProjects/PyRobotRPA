@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Robot Framework outputs
+reports/
+log.html
+report.html
+output.xml
+*.log
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,15 @@
+# smoke_test.py
+def test_user_login():
+print(“log in”)
+def test_user_register():
+print(“log in”)
+def test_user_logout():
+print(“log in”)
+# smoke_test.py
+Class TestUserSmoke(object):
+def test_user_login():
+print(“log in”)
+def test_user_register():
+print(“log in”)
+def test_user_logout():
+print(“log in”)
